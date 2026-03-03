@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+debugs/
+visualization/
+.idea/
+.vscode/
+*.mp4
+*.log
+*.pt
+perception/pretrained-models/
